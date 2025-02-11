@@ -1,4 +1,4 @@
-# Hospital Readmission Predicition Project
+# Hospital Readmission Prediction Project
 ## Introduction
 In this final project, I aim to analyze hospital readmission data to develop predictive models using machine learning (ML) and artificial intelligence (AI) techniques. The dataset comprises 5,000 entries in the training set and 2,000 entries in the test set, with various fields such as age, gender, primary diagnosis, number of procedures, days in hospital, comorbidity score, discharge destination, and readmission status. By leveraging these data fields, I will employ ML and AI algorithms to predict the likelihood of patient readmission. This analysis will help identify key factors influencing readmission rates and enable healthcare providers to implement targeted interventions to reduce readmissions, ultimately improving patient outcomes and optimizing hospital resources.
 ## Research Question
