@@ -1,5 +1,6 @@
 # Hospital Readmission Predicition Project
-
+## Introduction
+In this final project, I aim to analyze hospital readmission data to develop predictive models using machine learning (ML) and artificial intelligence (AI) techniques. The dataset comprises 5,000 entries in the training set and 2,000 entries in the test set, with various fields such as age, gender, primary diagnosis, number of procedures, days in hospital, comorbidity score, discharge destination, and readmission status. By leveraging these data fields, we will employ ML and AI algorithms to predict the likelihood of patient readmission. This analysis will help identify key factors influencing readmission rates and enable healthcare providers to implement targeted interventions to reduce readmissions, ultimately improving patient outcomes and optimizing hospital resources.
 ## Research Question
 Can we predict the likelihood of a patient being readmitted to the hospital within 30 days of discharge using patient demographics, clinical data, and hospitalization details?
 
@@ -37,5 +38,4 @@ The analysis will provide healthcare professionals with actionable insights, suc
 
 By translating complex data into clear, actionable intelligence, this project ensures better resource utilization, improved patient outcomes, and cost-effective care delivery.
 
-## Introduction
-In this final project, I aim to analyze hospital readmission data to develop predictive models using machine learning (ML) and artificial intelligence (AI) techniques. The dataset comprises 5,000 entries in the training set and 2,000 entries in the test set, with various fields such as age, gender, primary diagnosis, number of procedures, days in hospital, comorbidity score, discharge destination, and readmission status. By leveraging these data fields, we will employ ML and AI algorithms to predict the likelihood of patient readmission. This analysis will help identify key factors influencing readmission rates and enable healthcare providers to implement targeted interventions to reduce readmissions, ultimately improving patient outcomes and optimizing hospital resources.
+
