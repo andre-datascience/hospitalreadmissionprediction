@@ -5,7 +5,7 @@ In this final project, I aim to analyze synthetic hospital readmission data to d
 Can we predict the likelihood of a patient being readmitted to the hospital within 30 days of discharge using patient demographics, clinical data, and hospitalization details?
 
 ## Expected Data Sources
-The data will be sourced from a synthetic healthcare dataset containing 5,000 anonymized patient records with the following fields: age, gender, primary diagnosis, number of procedures, days in hospital, comorbidity score, discharge destination, and readmission status.
+The data will be sourced from a synthetic healthcare dataset containing 5,000 anonymized patient records with the following fields: age, gender, primary diagnosis, number of procedures, days in hospital, comorbidity score, discharge destination, and readmission status. https://www.kaggle.com/datasets/vanpatangan/readmission-dataset?resource=download
 
 ## Hospital Readmission Prediction Techniques Expected to Use in Analysis
 1. **Classification Algorithms**: Logistic Regression, Decision Trees, and Gradient Boosted Trees to predict readmission likelihood.
