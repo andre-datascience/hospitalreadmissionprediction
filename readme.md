@@ -6,6 +6,7 @@ Can we predict the likelihood of a patient being readmitted to the hospital with
 
 ## Expected Data Source
 The data will be sourced from a synthetic healthcare dataset containing 5,000 anonymized patient records with the following fields: age, gender, primary diagnosis, number of procedures, days in hospital, comorbidity score, discharge destination, and readmission status. https://www.kaggle.com/datasets/vanpatangan/readmission-dataset?resource=download
+
 EDA: https://www.kaggle.com/code/andrefft/notebook6bc63b787a
 ## Hospital Readmission Prediction Techniques Expected to Use in Analysis
 1. **Classification Algorithms**: Logistic Regression, Decision Trees, and Gradient Boosted Trees to predict readmission likelihood.
