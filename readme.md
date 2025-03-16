@@ -53,9 +53,9 @@ To ensure the accuracy and reliability of the models, the dataset underwent exte
 
 #### Descriptive and Inferential Statistics
 Descriptive statistics revealed that the dataset was highly imbalanced, with the majority of patients not being readmitted. The following key insights were derived:
-- The average age of patients in the dataset was **X** years, with a higher proportion of older patients at risk for readmission.
+- The average age of patients in the dataset was **53** years, with a higher proportion of older patients at risk for readmission.
 - The comorbidity score, which accounts for additional health complications, showed that patients with higher scores had an increased likelihood of readmission.
-- The average length of hospital stay was **X** days, with longer stays correlating with higher readmission risk.
+- The average length of hospital stay was **7** days, with longer stays correlating with higher readmission risk.
 
 Inferential statistics, such as correlation analysis and hypothesis testing, further reinforced these insights and highlighted significant relationships between patient characteristics and readmission likelihood.
 
