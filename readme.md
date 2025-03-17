@@ -77,7 +77,7 @@ After testing multiple machine learning models, the **Random Forest** model was 
    - **Nursing Facility Discharge**: Similar to rehab facility discharges, patients transferred to nursing facilities were at an increased risk of readmission.
    - **Chronic Conditions (Diabetes, Hypertension, and Heart Disease)**: These conditions were strongly linked to higher readmission rates, stressing the need for effective management of chronic diseases to reduce hospital readmissions.
 
-#### Actionable Insights
+#### Actionable Insights for the Healthcare provider:
 
 Based on the findings, the following actionable steps can be recommended for healthcare providers:
 - **Targeted Post-Discharge Care**: Focus on patients who are older, have higher comorbidity scores, or have longer hospital stays for more intensive post-discharge monitoring and care.
