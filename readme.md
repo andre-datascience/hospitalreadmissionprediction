@@ -42,6 +42,11 @@ By translating complex data into clear, actionable intelligence, this project en
 
 
 ## 24.1 Capstone Nontechnical Report 
+### Relevant notebooks:
+https://github.com/andre-datascience/hospitalreadmissionprediction/blob/main/24.1_notebook1.ipynb
+
+https://github.com/andre-datascience/hospitalreadmissionprediction/blob/main/24.1_notebook2.ipynb
+
 #### Business Understanding of the Problem
 The objective of this analysis is to predict hospital readmissions within 30 days using a synthetic healthcare dataset. Hospital readmissions are costly and represent poor health outcomes for patients. Identifying patients at high risk of readmission allows healthcare providers to take preventive measures, reduce healthcare costs, and improve patient outcomes. By leveraging machine learning techniques, the aim is to predict the likelihood of readmission and uncover the key factors driving this risk.
 
